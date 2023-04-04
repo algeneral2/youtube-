@@ -8,7 +8,7 @@ bot = Client(
         "youtube",
         api_id = 9028013,
         api_hash = "cc894fc40424f9c8bbcf06b7355bd69d",
-        bot_token = "" # توكنك
+        bot_token = "5488628256:AAEeCK9HzMvZi7gpVKjyWXsxv2K6pU6L2xg" # توكنك
 )
 
 @bot.on_message(filters.private & filters.text)
