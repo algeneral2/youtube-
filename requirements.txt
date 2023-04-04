@@ -5,6 +5,14 @@ arabic-reshaper==3.0.0
 beautifulsoup4==4.11.1
 
 bs4==0.0.1
+Client
+filters
+VideosSearch
+youtubesearchpython
+wget
+asyncio
+re
+yt_dlp
 
 certifi==2022.9.24
 
